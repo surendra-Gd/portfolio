@@ -358,6 +358,6 @@ export const defaultPortfolio: PortfolioData = {
     },
   ],
   theme: {
-    darkMode: true,
+    darkMode: false,
   },
 };

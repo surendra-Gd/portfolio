@@ -81,7 +81,10 @@ export const FeaturedProjectCard: React.FC<FeaturedProjectCardProps> = ({
               </div>
             </div>
           ) : (
-            <div className="mt-4 mb-3 block lg:hidden rounded-2xl overflow-hidden shadow-md border border-slate-200 dark:border-neutral-800 aspect-16/10 bg-slate-100 dark:bg-neutral-900">
+            <div
+              onClick={() => onOpenProjectModal(project)}
+              className="mt-4 mb-3 block lg:hidden rounded-2xl overflow-hidden shadow-md border border-slate-200 dark:border-neutral-800 aspect-16/10 bg-slate-100 dark:bg-neutral-900 cursor-pointer"
+            >
               <img
                 src={project.image}
                 alt={project.title}

@@ -94,6 +94,23 @@ export const OtherProjectCard: React.FC<OtherProjectCardProps> = ({
         </div>
       )}
 
+      {/* Mobile view preview for web/desktop projects (LeadRadar, Fullstack Solutions, etc.) */}
+      {!isMobileProject && project.image && (
+        <div
+          onClick={() => onOpenProjectModal(project)}
+          className="block md:hidden w-full rounded-xl overflow-hidden aspect-16/10 bg-slate-100 dark:bg-neutral-900 border border-slate-200 dark:border-neutral-800 cursor-pointer group shadow-xs"
+          title="Click to view full preview"
+        >
+          <img
+            src={project.image}
+            alt={project.title}
+            referrerPolicy="no-referrer"
+            className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+            loading="lazy"
+          />
+        </div>
+      )}
+
       {/* Details */}
       <div className="flex-1 flex flex-col justify-between w-full">
         <div>
