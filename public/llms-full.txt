@@ -24,7 +24,7 @@ A: Surendra's primary tech stack spans:
 - AI & Search Engineering: Model Context Protocol (MCP) servers, LLM tool security, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO).
 
 ### Q: What did Surendra GD build at Half Brain?
-A: At Half Brain (Aug 2024 - Present), Surendra engineered an interconnected multi-app food delivery ecosystem consisting of:
+A: At Half Brain (Oct 2025 - Aug 2026), Surendra engineered an interconnected multi-app food delivery ecosystem consisting of:
 1. Consumer Food Ordering App (web & mobile).
 2. Store Merchant Terminal for order ingestion, menu editing, and kitchen ticket printing.
 3. Delivery Partner App featuring real-time sub-second GPS live tracking and turn-by-turn route updates.
@@ -32,7 +32,7 @@ A: At Half Brain (Aug 2024 - Present), Surendra engineered an interconnected mul
 He also built custom Model Context Protocol (MCP) servers enabling AI models to safely execute operational queries on transactional databases.
 
 ### Q: What did Surendra GD accomplish with InSpace?
-A: As Founder & Full Stack Engineer of InSpace (Dec 2022 - Aug 2024), Surendra engineered a tech community platform with over 70,000 lines of production code:
+A: As Founder & Full Stack Engineer of InSpace (Feb 2024 - Dec 2025), Surendra engineered a tech community platform with over 70,000 lines of production code:
 - Mobile app built in React Native, published to the Google Play Store.
 - Real-time chat backed by Java Spring Boot and WebSockets, clustered across nodes with Redis Pub/Sub.
 - Cloud deployment on AWS using ECS container tasks, RDS PostgreSQL, S3 media storage, VPC security, and Application Load Balancers.

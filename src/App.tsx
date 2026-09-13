@@ -13,7 +13,7 @@ import { ResumeModal } from './components/ResumeModal';
 import { CustomizeDrawer } from './components/CustomizeDrawer';
 import { ProjectInquiryModal } from './components/ProjectInquiryModal';
 
-const STORAGE_KEY = 'portfolio_template_v2_data_surendra_v15';
+const STORAGE_KEY = 'portfolio_template_v2_data_surendra_v19';
 
 export default function App() {
   const [data, setData] = useState<PortfolioData>(() => {
