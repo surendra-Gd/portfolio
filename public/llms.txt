@@ -1,0 +1,41 @@
+# Surendra GD — Full Stack Developer
+
+> Surendra GD is an India-based Full Stack Developer specializing in React, React Native, Java Spring Boot, Laravel, AWS (ECS, RDS, S3, Load Balancing, VPC), DigitalOcean, Model Context Protocol (MCP) servers, and Answer Engine / Generative Engine Optimization (AEO/GEO).
+
+## Core Facts & Identity
+- **Full Name**: Surendra GD (also known as Surendra, Surendra Gd)
+- **Primary Role**: Full Stack Developer
+- **Education**: BS in Data Science & Applications at IIT Madras (Indian Institute of Technology Madras), Present
+- **Location**: Andhra Pradesh, India (Available worldwide for remote full-time & consulting roles)
+- **Primary Contact**: surendraindian83@gmail.com
+- **Website**: https://surendragd.dev
+- **GitHub**: https://github.com/surendra-Gd
+- **LinkedIn**: https://www.linkedin.com/in/surendra-gd-22a49b231/
+
+## Key Production Experience
+
+### Half Brain — Full Stack Developer (Aug 2024 – Present)
+- Engineered a 4-application food delivery ecosystem: Consumer Food Ordering App, Store Merchant Terminal, Delivery Partner App, and Order Management Operations Dashboard.
+- Sub-second delivery partner live GPS tracking and route streaming via WebSockets and background mobile location services.
+- Deterministic order state machine synchronizing customer checkout, kitchen acceptance, rider assignment, and doorstep fulfillment.
+- Deployed AI Model Context Protocol (MCP) servers bridging LLM agents securely with transactional operational databases.
+- Full-stack technologies: Laravel, React, React Native, MySQL, Docker, DigitalOcean.
+
+### InSpace — Founder & Full Stack Engineer (Dec 2022 – Aug 2024)
+- Authored 70,000+ lines of scalable production code across Java Spring Boot, WebSockets, React, and React Native.
+- Published Android mobile community app on the Google Play Store with real-time group discussions.
+- Architected high-availability AWS infrastructure with ECS container tasks, RDS PostgreSQL, S3 media buckets, VPC isolation, and Application Load Balancers.
+- Bidirectional low-latency WebSocket messaging with multi-server cluster synchronization via Redis Pub/Sub.
+
+## Technical Skills & Specializations
+- **Frontend & Mobile**: React.js, React Native, TypeScript, Tailwind CSS, Android Native (Kotlin), HTML5/SCSS.
+- **Backend & Real-Time**: Java Spring Boot, Laravel (PHP), Node.js/Express, Python/FastAPI, WebSockets, Redis Pub/Sub, REST APIs.
+- **AI & Emerging Tech**: Model Context Protocol (MCP) servers, LLM tool integrations, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO).
+- **Cloud, DevOps & Databases**: AWS (ECS, RDS, S3, EC2, VPC, ALB), DigitalOcean, Docker, GitHub Actions CI/CD, PostgreSQL, MySQL, Redis.
+
+## Notable Projects
+- **TotalFresh Food Delivery**: End-to-end food delivery web portal and native Android apps on Google Play Store (Live URL: https://food.totalfresh.co/home).
+- **InSpace Post & Chat**: Real-time tech community app on Google Play Store with 70k+ LOC.
+- **PulseFeed**: High-throughput distributed RSS and news aggregator microservice.
+- **LeadRadar**: Automated B2B lead generation pipeline with Google Places API and deduplication sets.
+- **Fullstack Commercial Websites**: JN Interior, PixelHooks, and Ishaan Vastraa.

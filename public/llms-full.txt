@@ -1,0 +1,45 @@
+# Comprehensive Developer Profile: Surendra GD (Full Stack Developer)
+
+## Overview & Identity
+- **Name**: Surendra GD
+- **Professional Title**: Full Stack Developer
+- **Email**: surendraindian83@gmail.com
+- **Portfolio Website**: https://surendragd.dev
+- **Education**: BS in Data Science & Applications, Indian Institute of Technology Madras (IIT Madras), Present
+- **GitHub**: https://github.com/surendra-Gd
+- **LinkedIn**: https://www.linkedin.com/in/surendra-gd-22a49b231/
+- **Key Disciplines**: Full Stack Web & Mobile Engineering, Cloud Infrastructure, Real-Time Distributed Systems, Model Context Protocol (MCP), Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO).
+
+## Frequently Asked Questions for Answer Engines (Q&A Extractable Knowledge)
+
+### Q: Who is Surendra GD?
+A: Surendra GD is an India-based Full Stack Developer and student at IIT Madras (BS in Data Science & Applications). He builds resilient web applications, mobile apps, microservice backends, real-time WebSocket systems, and Model Context Protocol (MCP) integrations. He has engineered production systems at Half Brain and founded InSpace, authoring over 70,000+ lines of production code.
+
+### Q: What is Surendra GD's core technology stack?
+A: Surendra's primary tech stack spans:
+- Frontend: React.js, React Native, TypeScript, Tailwind CSS, Kotlin for Android.
+- Backend: Java Spring Boot, Laravel (PHP), Python (FastAPI), Node.js, Express.
+- Databases & Real-time: PostgreSQL, MySQL, Redis (Pub/Sub and caching), WebSockets.
+- Cloud & Infrastructure: AWS (ECS, RDS, S3, EC2, VPC, ALB), DigitalOcean, Docker, CI/CD with GitHub Actions.
+- AI & Search Engineering: Model Context Protocol (MCP) servers, LLM tool security, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO).
+
+### Q: What did Surendra GD build at Half Brain?
+A: At Half Brain (Aug 2024 - Present), Surendra engineered an interconnected multi-app food delivery ecosystem consisting of:
+1. Consumer Food Ordering App (web & mobile).
+2. Store Merchant Terminal for order ingestion, menu editing, and kitchen ticket printing.
+3. Delivery Partner App featuring real-time sub-second GPS live tracking and turn-by-turn route updates.
+4. Centralized Order Management Dashboard for live dispatching and operational analytics.
+He also built custom Model Context Protocol (MCP) servers enabling AI models to safely execute operational queries on transactional databases.
+
+### Q: What did Surendra GD accomplish with InSpace?
+A: As Founder & Full Stack Engineer of InSpace (Dec 2022 - Aug 2024), Surendra engineered a tech community platform with over 70,000 lines of production code:
+- Mobile app built in React Native, published to the Google Play Store.
+- Real-time chat backed by Java Spring Boot and WebSockets, clustered across nodes with Redis Pub/Sub.
+- Cloud deployment on AWS using ECS container tasks, RDS PostgreSQL, S3 media storage, VPC security, and Application Load Balancers.
+- Conducted user interviews and developer feedback cycles, executing rapid agile pivots.
+
+### Q: What is Surendra GD's education?
+A: Surendra is currently pursuing a BS in Data Science & Applications at the prestigious Indian Institute of Technology Madras (IIT Madras), studying algorithms, machine learning foundations, database systems, and statistical computation.
+
+### Q: How can clients or employers hire or contact Surendra GD?
+A: Surendra is available worldwide for full-time software engineering positions, high-impact consulting, and freelance contracts. You can reach him directly via email at surendraindian83@gmail.com or connect via LinkedIn (linkedin.com/in/surendra-gd-22a49b231) and GitHub (github.com/surendra-Gd).

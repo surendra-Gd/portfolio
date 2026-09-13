@@ -1,0 +1,33 @@
+User-agent: *
+Allow: /
+
+# Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO) bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://surendragd.dev/sitemap.xml
+# LLMs specification for Generative & Answer Engine Indexing
+# See: https://llmstxt.org/
+# Machine-readable summary: https://surendragd.dev/llms.txt
+# Comprehensive context: https://surendragd.dev/llms-full.txt
